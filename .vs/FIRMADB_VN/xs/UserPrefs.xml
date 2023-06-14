@@ -1,4 +1,42 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{FC5D9E7B-1966-43C3-9D52-321B2C743205}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FIRMADB_VN/Models/FIRMADB_VN_context.cs">
+    <Files>
+      <File FileName="FIRMADB_VN/Program.cs" Line="2" Column="42" />
+      <File FileName="FIRMADB_VN/Models/FIRMADB_VN_context.cs" Line="3" Column="34" />
+      <File FileName="FIRMADB_VN/Models/Haru.cs" Line="5" Column="29" />
+      <File FileName="FIRMADB_VN/Models/Töötaja.cs" Line="17" Column="1" />
+      <File FileName="FIRMADB_VN/Models/AmetinimetusteAjalugu.cs" Line="1" Column="1" />
+      <File FileName="FIRMADB_VN/Models/AmetinimetusteNimekiri.cs" Line="16" Column="2" />
+      <File FileName="FIRMADB_VN/Models/Ligipääsuluba.cs" Line="18" Column="2" />
+      <File FileName="FIRMADB_VN/Models/Haigusleht.cs" Line="4" Column="1" />
+      <File FileName="FIRMADB_VN/Models/LaenutatavInventar.cs" Line="4" Column="1" />
+      <File FileName="FIRMADB_VN/Models/Laenutus.cs" Line="14" Column="2" />
+      <File FileName="FIRMADB_VN/Models/Laps.cs" Line="3" Column="52" />
+      <File FileName="FIRMADB_VN/Models/Palved.cs" Line="4" Column="1" />
+      <File FileName="FIRMADB_VN/Models/Puhkused.cs" Line="3" Column="52" />
+      <File FileName="FIRMADB_VN/Models/Tervisekontroll.cs" Line="17" Column="2" />
+      <File FileName="FIRMADB_VN/Models/TöötajaLapsSeos.cs" Line="3" Column="52" />
+      <File FileName="FIRMADB_VN/Models/Vihjed.cs" Line="3" Column="52" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FIRMADB_VN" expanded="True" selected="True">
+            <Node name="FIRMADB_VN" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.FIRMADB__VN PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
